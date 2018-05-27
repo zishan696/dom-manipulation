@@ -33,6 +33,6 @@ b. Add two buttons for red and green, clicking each changes the background color
 
 c. Add two input elements, and a button that allows to add two numbers and shows the result on the screen.
 
-[!Task4c](task4c.png)
+![Task4c](task4c.png)
 
 ------
